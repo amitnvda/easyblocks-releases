@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "zxp": "EasyBlocksPro-1.6.0.zxp",
-  "update": "EasyBlocksPro-1.6.0-update.zip",
-  "updateUrl": "https://raw.githubusercontent.com/amitnvda/easyblocks-releases/main/EasyBlocksPro-1.6.0-update.zip",
-  "releasedAt": "2026-06-14T09:07:22Z",
+  "version": "1.6.1",
+  "zxp": "EasyBlocksPro-1.6.1.zxp",
+  "update": "EasyBlocksPro-1.6.1-update.zip",
+  "updateUrl": "https://raw.githubusercontent.com/amitnvda/easyblocks-releases/main/EasyBlocksPro-1.6.1-update.zip",
+  "releasedAt": "2026-07-12T07:53:18Z",
   "notes": ""
 }
